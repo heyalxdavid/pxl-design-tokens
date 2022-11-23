@@ -166,7 +166,7 @@
         "description": "color"
       },
       "white": {
-        "value": "#ffffff",
+        "value": "#fff",
         "type": "color",
         "description": "color"
       }
