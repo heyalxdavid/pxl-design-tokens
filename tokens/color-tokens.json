@@ -166,7 +166,7 @@
         "description": "color"
       },
       "white": {
-        "value": "#fc0000",
+        "value": "#fff",
         "type": "color",
         "description": "color"
       }
@@ -431,11 +431,5 @@
         "description": "color"
       }
     }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "color"
-    ]
   }
 }
