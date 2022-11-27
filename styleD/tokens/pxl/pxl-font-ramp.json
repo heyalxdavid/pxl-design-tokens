@@ -1,0 +1,20 @@
+{
+  "pxl": {
+    "fontRamp": {
+      "H1": {
+        "value": {
+          "fontFamily": "{pxl.font.primaryFont}",
+          "fontWeight": "{pxl.sizing.12}",
+          "lineHeight": "{pxl.sizing.15}",
+          "fontSize": "",
+          "letterSpacing": "",
+          "paragraphSpacing": "",
+          "paragraphIndent": "",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

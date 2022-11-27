@@ -1,0 +1,21 @@
+{
+  "pxl": {
+    "elevation": {
+      "none": {
+        "value": "0px 0px 0px rgba(0, 0, 0, 0)"
+      },
+      "1": {
+        "value": "0px 1px 4px rgba(0, 0, 0, 0.2)"
+      },
+      "2": {
+        "value": "0px 2px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "3": {
+        "value": "0px 4px 16px rgba(0, 0, 0, 0.2)"
+      },
+      "4": {
+        "value": "0px 6px 24px rgba(0, 0, 0, 0.2)"
+      }
+    }
+  }
+}
