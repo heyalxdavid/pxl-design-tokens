@@ -4,12 +4,21 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 27 Nov 2022 09:15:46 GMT
+// Generated on Tue, 29 Nov 2022 22:01:51 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
+    public static let assetFontIconEot = ""assets/fonts/MaterialIcons-Regular.eot""
+    public static let assetFontIconName = ""MaterialIcons""
+    public static let assetFontIconTtf = ""assets/fonts/MaterialIcons-Regular.ttf""
+    public static let assetFontIconWoff = ""assets/fonts/MaterialIcons-Regular.woff""
+    public static let assetFontIconWoff2 = ""assets/fonts/MaterialIcons-Regular.woff2""
+    public static let assetFontOpensansName = ""Open Sans""
+    public static let assetFontOpensansTtf = ""assets/fonts/OpenSans-VariableFont_wdth,wght.ttf""
+    public static let assetFontRobotoName = ""Roboto""
+    public static let assetFontRobotoTtf = ""assets/fonts/Roboto-Regular.ttf""
     public static let pxlColorBaseBlue100 = #d1ebff
     public static let pxlColorBaseBlue200 = #a3d7ff
     public static let pxlColorBaseBlue300 = #73c1fc
@@ -103,6 +112,28 @@ public enum StyleDictionaryEnum {
     public static let pxlColorBrandSecondaryDarker = #22262a
     public static let pxlColorBrandSecondaryLight = #dfe3e7
     public static let pxlColorBrandSecondaryLighter = #f0f2f4
+    public static let pxlColorFontActive = #1863aa
+    public static let pxlColorFontBase = #22262a
+    public static let pxlColorFontButtonPrimary = #fff
+    public static let pxlColorFontButtonSecondary = #339bf0
+    public static let pxlColorFontDisabled = #484f56
+    public static let pxlColorFontError = #ff6b6b
+    public static let pxlColorFontInverseActive = #f0f2f4
+    public static let pxlColorFontInverseBase = #fff
+    public static let pxlColorFontInverseDisabled = #eaedf0
+    public static let pxlColorFontInverseError = #ffa8a8
+    public static let pxlColorFontInverseLink = #adb5bd
+    public static let pxlColorFontInverseQuaternary = #dfe3e7
+    public static let pxlColorFontInverseSecondary = #f0f2f4
+    public static let pxlColorFontInverseSuccess = #8be999
+    public static let pxlColorFontInverseTertiary = #eaedf0
+    public static let pxlColorFontInverseWarning = #ffc17a
+    public static let pxlColorFontLink = #339bf0
+    public static let pxlColorFontQuaternary = #878f97
+    public static let pxlColorFontSecondary = #353b41
+    public static let pxlColorFontSuccess = #4fcf64
+    public static let pxlColorFontTertiary = #484f56
+    public static let pxlColorFontWarning = #ff9029
     public static let pxlElevation1 = 0px 1px 4px rgba(0, 0, 0, 0.2)
     public static let pxlElevation2 = 0px 2px 8px rgba(0, 0, 0, 0.2)
     public static let pxlElevation3 = 0px 4px 16px rgba(0, 0, 0, 0.2)

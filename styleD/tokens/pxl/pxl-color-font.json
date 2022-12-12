@@ -1,0 +1,36 @@
+{
+  "pxl": {
+    "color": {
+      "font": {
+        "base": { "value": "{pxl.color.base.neutral.900}" },
+        "secondary": { "value": "{pxl.color.base.neutral.800}" },
+        "tertiary": { "value": "{pxl.color.base.neutral.700}" },
+        "quaternary": { "value": "{pxl.color.base.neutral.600}" },
+        "link": { "value": "{pxl.color.brand.primary.base}" },
+        "active": { "value": "{pxl.color.brand.primary.darker}" },
+        "error": { "value": "{pxl.color.base.red.500}" },
+        "warning": { "value": "{pxl.color.base.orange.500}" },
+        "success": { "value": "{pxl.color.base.green.500}" },
+        "disabled": { "value": "{pxl.color.font.tertiary}" },
+
+        "inverse": {
+          "base": { "value": "{pxl.color.base.neutral.white}" },
+          "secondary": { "value": "{pxl.color.base.neutral.100}" },
+          "tertiary": { "value": "{pxl.color.base.neutral.200}" },
+          "quaternary": { "value": "{pxl.color.base.neutral.300}" },
+          "link": { "value": "{pxl.color.brand.secondary.base}" },
+          "active": { "value": "{pxl.color.brand.secondary.lighter}" },
+          "error": { "value": "{pxl.color.base.red.300}" },
+          "warning": { "value": "{pxl.color.base.orange.300}" },
+          "success": { "value": "{pxl.color.base.green.300}" },
+          "disabled": { "value": "{pxl.color.font.inverse.tertiary}" }
+        },
+
+        "button": {
+          "primary": { "value": "{pxl.color.font.inverse.base}" },
+          "secondary": { "value": "{pxl.color.font.link}" }
+        }
+      }
+    }
+  }
+}

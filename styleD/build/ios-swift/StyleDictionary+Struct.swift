@@ -4,12 +4,21 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 27 Nov 2022 09:15:46 GMT
+// Generated on Tue, 29 Nov 2022 22:01:51 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
+    internal static let assetFontIconEot = ""assets/fonts/MaterialIcons-Regular.eot""
+    internal static let assetFontIconName = ""MaterialIcons""
+    internal static let assetFontIconTtf = ""assets/fonts/MaterialIcons-Regular.ttf""
+    internal static let assetFontIconWoff = ""assets/fonts/MaterialIcons-Regular.woff""
+    internal static let assetFontIconWoff2 = ""assets/fonts/MaterialIcons-Regular.woff2""
+    internal static let assetFontOpensansName = ""Open Sans""
+    internal static let assetFontOpensansTtf = ""assets/fonts/OpenSans-VariableFont_wdth,wght.ttf""
+    internal static let assetFontRobotoName = ""Roboto""
+    internal static let assetFontRobotoTtf = ""assets/fonts/Roboto-Regular.ttf""
     internal static let pxlColorBaseBlue100 = #d1ebff
     internal static let pxlColorBaseBlue200 = #a3d7ff
     internal static let pxlColorBaseBlue300 = #73c1fc
@@ -103,6 +112,28 @@ internal struct StyleDictionaryStruct {
     internal static let pxlColorBrandSecondaryDarker = #22262a
     internal static let pxlColorBrandSecondaryLight = #dfe3e7
     internal static let pxlColorBrandSecondaryLighter = #f0f2f4
+    internal static let pxlColorFontActive = #1863aa
+    internal static let pxlColorFontBase = #22262a
+    internal static let pxlColorFontButtonPrimary = #fff
+    internal static let pxlColorFontButtonSecondary = #339bf0
+    internal static let pxlColorFontDisabled = #484f56
+    internal static let pxlColorFontError = #ff6b6b
+    internal static let pxlColorFontInverseActive = #f0f2f4
+    internal static let pxlColorFontInverseBase = #fff
+    internal static let pxlColorFontInverseDisabled = #eaedf0
+    internal static let pxlColorFontInverseError = #ffa8a8
+    internal static let pxlColorFontInverseLink = #adb5bd
+    internal static let pxlColorFontInverseQuaternary = #dfe3e7
+    internal static let pxlColorFontInverseSecondary = #f0f2f4
+    internal static let pxlColorFontInverseSuccess = #8be999
+    internal static let pxlColorFontInverseTertiary = #eaedf0
+    internal static let pxlColorFontInverseWarning = #ffc17a
+    internal static let pxlColorFontLink = #339bf0
+    internal static let pxlColorFontQuaternary = #878f97
+    internal static let pxlColorFontSecondary = #353b41
+    internal static let pxlColorFontSuccess = #4fcf64
+    internal static let pxlColorFontTertiary = #484f56
+    internal static let pxlColorFontWarning = #ff9029
     internal static let pxlElevation1 = 0px 1px 4px rgba(0, 0, 0, 0.2)
     internal static let pxlElevation2 = 0px 2px 8px rgba(0, 0, 0, 0.2)
     internal static let pxlElevation3 = 0px 4px 16px rgba(0, 0, 0, 0.2)

@@ -3,10 +3,10 @@
     "fontRamp": {
       "H1": {
         "value": {
-          "fontFamily": "{pxl.font.primaryFont}",
+          "fontFamily": "{pxl.font.primaryFont.value}",
           "fontWeight": "{pxl.sizing.12}",
           "lineHeight": "{pxl.sizing.15}",
-          "fontSize": "",
+          "fontSize": "{pxl.sizing.20}",
           "letterSpacing": "",
           "paragraphSpacing": "",
           "paragraphIndent": "",
