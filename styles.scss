@@ -1,0 +1,42 @@
+@import "styleD/build/scss/_variables.scss";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+input,
+button,
+submit {
+  border: none;
+}
+
+button {
+  display: inline-block;
+  border-radius: $pxl-sizing-2;
+  text-align: center;
+  cursor: pointer;
+}
+
+button.medium {
+  min-width: 100px;
+  padding: 6px 8px;
+  font-size: $pxl-sizing-4;
+  line-height: $pxl-sizing-6;
+  font-weight: $pxl-font-weight-4;
+}
+
+button.primary {
+  background-color: $pxl-color-base-blue-500;
+  color: $pxl-color-base-neutral-white;
+}
+
+button.primary:hover {
+  background-color: $pxl-color-base-blue-700;
+}
+
+button.primary:active {
+  background-color: $pxl-color-base-blue-900;
+}
