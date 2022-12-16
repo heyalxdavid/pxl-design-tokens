@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Dec 2022 00:27:15 GMT
+// Generated on Tue, 13 Dec 2022 07:00:15 GMT
 
 
 import UIKit
@@ -29,16 +29,16 @@ internal struct StyleDictionaryStruct {
     internal static let pxlColorBaseBlue700 = #1c7ed4
     internal static let pxlColorBaseBlue800 = #1970c2
     internal static let pxlColorBaseBlue900 = #1863aa
-    internal static let pxlColorBaseGreen100 = #d2f9d7
-    internal static let pxlColorBaseGreen200 = #b1f2b9
-    internal static let pxlColorBaseGreen300 = #8be999
-    internal static let pxlColorBaseGreen400 = #6bdb7e
-    internal static let pxlColorBaseGreen50 = #eafbed
-    internal static let pxlColorBaseGreen500 = #4fcf64
-    internal static let pxlColorBaseGreen600 = #40bf57
-    internal static let pxlColorBaseGreen700 = #37b34e
-    internal static let pxlColorBaseGreen800 = #2f9d43
-    internal static let pxlColorBaseGreen900 = #2b883d
+    internal static let pxlColorBaseGreen100 = #b3dfcd
+    internal static let pxlColorBaseGreen200 = #90d0b5
+    internal static let pxlColorBaseGreen300 = #6cc19e
+    internal static let pxlColorBaseGreen400 = #4ab085
+    internal static let pxlColorBaseGreen50 = #c5e7d9
+    internal static let pxlColorBaseGreen500 = #3b8c6a
+    internal static let pxlColorBaseGreen600 = #32775b
+    internal static let pxlColorBaseGreen700 = #28624a
+    internal static let pxlColorBaseGreen800 = #1f4c39
+    internal static let pxlColorBaseGreen900 = #173629
     internal static let pxlColorBaseNeutral100 = #f0f2f4
     internal static let pxlColorBaseNeutral200 = #eaedf0
     internal static let pxlColorBaseNeutral300 = #dfe3e7
@@ -102,20 +102,20 @@ internal struct StyleDictionaryStruct {
     internal static let pxlColorBaseYellow700 = #f59f00
     internal static let pxlColorBaseYellow800 = #f08c00
     internal static let pxlColorBaseYellow900 = #e67700
-    internal static let pxlColorBrandPrimaryBase = #339bf0
-    internal static let pxlColorBrandPrimaryDark = #1c7ed4
-    internal static let pxlColorBrandPrimaryDarker = #1863aa
-    internal static let pxlColorBrandPrimaryLight = #73c1fc
-    internal static let pxlColorBrandPrimaryLighter = #d1ebff
+    internal static let pxlColorBrandPrimaryBase = #3b8c6a
+    internal static let pxlColorBrandPrimaryDark = #28624a
+    internal static let pxlColorBrandPrimaryDarker = #173629
+    internal static let pxlColorBrandPrimaryLight = #6cc19e
+    internal static let pxlColorBrandPrimaryLighter = #b3dfcd
     internal static let pxlColorBrandSecondaryBase = #adb5bd
     internal static let pxlColorBrandSecondaryDark = #484f56
     internal static let pxlColorBrandSecondaryDarker = #22262a
     internal static let pxlColorBrandSecondaryLight = #dfe3e7
     internal static let pxlColorBrandSecondaryLighter = #f0f2f4
-    internal static let pxlColorFontActive = #1863aa
+    internal static let pxlColorFontActive = #173629
     internal static let pxlColorFontBase = #22262a
     internal static let pxlColorFontButtonPrimary = #fff
-    internal static let pxlColorFontButtonSecondary = #339bf0
+    internal static let pxlColorFontButtonSecondary = #3b8c6a
     internal static let pxlColorFontDisabled = #484f56
     internal static let pxlColorFontError = #ff6b6b
     internal static let pxlColorFontInverseActive = #f0f2f4
@@ -125,13 +125,13 @@ internal struct StyleDictionaryStruct {
     internal static let pxlColorFontInverseLink = #adb5bd
     internal static let pxlColorFontInverseQuaternary = #dfe3e7
     internal static let pxlColorFontInverseSecondary = #f0f2f4
-    internal static let pxlColorFontInverseSuccess = #8be999
+    internal static let pxlColorFontInverseSuccess = #6cc19e
     internal static let pxlColorFontInverseTertiary = #eaedf0
     internal static let pxlColorFontInverseWarning = #ffc17a
-    internal static let pxlColorFontLink = #339bf0
+    internal static let pxlColorFontLink = #3b8c6a
     internal static let pxlColorFontQuaternary = #878f97
     internal static let pxlColorFontSecondary = #353b41
-    internal static let pxlColorFontSuccess = #4fcf64
+    internal static let pxlColorFontSuccess = #3b8c6a
     internal static let pxlColorFontTertiary = #484f56
     internal static let pxlColorFontWarning = #ff9029
     internal static let pxlElevation1 = 0px 1px 4px rgba(0, 0, 0, 0.2)

@@ -3,11 +3,11 @@
     "color": {
       "brand": {
         "primary": {
-          "lighter": { "value": "{pxl.color.base.blue.100}" },
-          "light": { "value": "{pxl.color.base.blue.300}" },
-          "base": { "value": "{pxl.color.base.blue.500}" },
-          "dark": { "value": "{pxl.color.base.blue.700}" },
-          "darker": { "value": "{pxl.color.base.blue.900}" }
+          "lighter": { "value": "{pxl.color.base.green.100}" },
+          "light": { "value": "{pxl.color.base.green.300}" },
+          "base": { "value": "{pxl.color.base.green.500}" },
+          "dark": { "value": "{pxl.color.base.green.700}" },
+          "darker": { "value": "{pxl.color.base.green.900}" }
         },
 
         "secondary": {

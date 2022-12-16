@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Dec 2022 00:27:15 GMT
+// Generated on Tue, 13 Dec 2022 07:00:15 GMT
 
 
 import UIKit
@@ -29,16 +29,16 @@ public class StyleDictionaryClass {
     public static let pxlColorBaseBlue700 = #1c7ed4
     public static let pxlColorBaseBlue800 = #1970c2
     public static let pxlColorBaseBlue900 = #1863aa
-    public static let pxlColorBaseGreen100 = #d2f9d7
-    public static let pxlColorBaseGreen200 = #b1f2b9
-    public static let pxlColorBaseGreen300 = #8be999
-    public static let pxlColorBaseGreen400 = #6bdb7e
-    public static let pxlColorBaseGreen50 = #eafbed
-    public static let pxlColorBaseGreen500 = #4fcf64
-    public static let pxlColorBaseGreen600 = #40bf57
-    public static let pxlColorBaseGreen700 = #37b34e
-    public static let pxlColorBaseGreen800 = #2f9d43
-    public static let pxlColorBaseGreen900 = #2b883d
+    public static let pxlColorBaseGreen100 = #b3dfcd
+    public static let pxlColorBaseGreen200 = #90d0b5
+    public static let pxlColorBaseGreen300 = #6cc19e
+    public static let pxlColorBaseGreen400 = #4ab085
+    public static let pxlColorBaseGreen50 = #c5e7d9
+    public static let pxlColorBaseGreen500 = #3b8c6a
+    public static let pxlColorBaseGreen600 = #32775b
+    public static let pxlColorBaseGreen700 = #28624a
+    public static let pxlColorBaseGreen800 = #1f4c39
+    public static let pxlColorBaseGreen900 = #173629
     public static let pxlColorBaseNeutral100 = #f0f2f4
     public static let pxlColorBaseNeutral200 = #eaedf0
     public static let pxlColorBaseNeutral300 = #dfe3e7
@@ -102,20 +102,20 @@ public class StyleDictionaryClass {
     public static let pxlColorBaseYellow700 = #f59f00
     public static let pxlColorBaseYellow800 = #f08c00
     public static let pxlColorBaseYellow900 = #e67700
-    public static let pxlColorBrandPrimaryBase = #339bf0
-    public static let pxlColorBrandPrimaryDark = #1c7ed4
-    public static let pxlColorBrandPrimaryDarker = #1863aa
-    public static let pxlColorBrandPrimaryLight = #73c1fc
-    public static let pxlColorBrandPrimaryLighter = #d1ebff
+    public static let pxlColorBrandPrimaryBase = #3b8c6a
+    public static let pxlColorBrandPrimaryDark = #28624a
+    public static let pxlColorBrandPrimaryDarker = #173629
+    public static let pxlColorBrandPrimaryLight = #6cc19e
+    public static let pxlColorBrandPrimaryLighter = #b3dfcd
     public static let pxlColorBrandSecondaryBase = #adb5bd
     public static let pxlColorBrandSecondaryDark = #484f56
     public static let pxlColorBrandSecondaryDarker = #22262a
     public static let pxlColorBrandSecondaryLight = #dfe3e7
     public static let pxlColorBrandSecondaryLighter = #f0f2f4
-    public static let pxlColorFontActive = #1863aa
+    public static let pxlColorFontActive = #173629
     public static let pxlColorFontBase = #22262a
     public static let pxlColorFontButtonPrimary = #fff
-    public static let pxlColorFontButtonSecondary = #339bf0
+    public static let pxlColorFontButtonSecondary = #3b8c6a
     public static let pxlColorFontDisabled = #484f56
     public static let pxlColorFontError = #ff6b6b
     public static let pxlColorFontInverseActive = #f0f2f4
@@ -125,13 +125,13 @@ public class StyleDictionaryClass {
     public static let pxlColorFontInverseLink = #adb5bd
     public static let pxlColorFontInverseQuaternary = #dfe3e7
     public static let pxlColorFontInverseSecondary = #f0f2f4
-    public static let pxlColorFontInverseSuccess = #8be999
+    public static let pxlColorFontInverseSuccess = #6cc19e
     public static let pxlColorFontInverseTertiary = #eaedf0
     public static let pxlColorFontInverseWarning = #ffc17a
-    public static let pxlColorFontLink = #339bf0
+    public static let pxlColorFontLink = #3b8c6a
     public static let pxlColorFontQuaternary = #878f97
     public static let pxlColorFontSecondary = #353b41
-    public static let pxlColorFontSuccess = #4fcf64
+    public static let pxlColorFontSuccess = #3b8c6a
     public static let pxlColorFontTertiary = #484f56
     public static let pxlColorFontWarning = #ff9029
     public static let pxlElevation1 = 0px 1px 4px rgba(0, 0, 0, 0.2)

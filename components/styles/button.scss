@@ -1,19 +1,16 @@
+@import "styleD/build/scss/_variables.scss";
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
 body {
   font-family: "Open Sans", sans-serif;
   display: flex;
   justify-content: center;
 }
 
-input,
-button,
-submit {
-  border: none;
-}
-
 button {
+  border: none;
   display: inline-block;
-  border-radius: 0.5rem;
+  border-radius: $pxl-sizing-2;
   text-align: center;
   cursor: pointer;
 }
@@ -21,20 +18,20 @@ button {
 button.medium {
   min-width: 100px;
   padding: 6px 8px;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 600;
+  font-size: $pxl-sizing-4;
+  line-height: $pxl-sizing-6;
+  font-weight: $pxl-font-weight-4;
 }
 
 button.primary {
-  background-color: #339bf0;
-  color: #fff;
+  background-color: $pxl-color-brand-primary-base;
+  color: $pxl-color-base-neutral-black;
 }
 
 button.primary:hover {
-  background-color: #1c7ed4;
+  background-color: $pxl-color-brand-primary-dark;
 }
 
 button.primary:active {
-  background-color: #1863aa;
-}/*# sourceMappingURL=styles.css.map */
+  background-color: $pxl-color-brand-primary-darker;
+}
